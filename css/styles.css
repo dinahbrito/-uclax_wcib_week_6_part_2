@@ -9,6 +9,14 @@ h5 {
   font-size: calc(100 / (1920 / 23) * 1vw);
   color: #533A2E; }
 
+.jumbotron {
+  background-image: url("/images/fall_collection.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 100%; }
+
 /* Navbar Styling */
 .navbar-light .navbar-nav .nav-link {
   color: #533A2E;
