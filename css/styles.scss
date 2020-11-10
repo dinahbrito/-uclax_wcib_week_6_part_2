@@ -19,6 +19,7 @@ h5 {
   background-size: cover;
   position: relative;
   height: 100%;
+  padding-top: 300px;
 }
 
 /* Navbar Styling */
@@ -53,4 +54,15 @@ h5 {
 
 form {
   padding-top: 20px;
+}
+
+.modal-body {
+  text-align: center;
+  img {
+    padding-top: 20px;
+  }
+}
+
+span {
+  text-decoration: underline;
 }

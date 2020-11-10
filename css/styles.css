@@ -15,7 +15,8 @@ h5 {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  height: 100%; }
+  height: 100%;
+  padding-top: 300px; }
 
 /* Navbar Styling */
 .navbar-light .navbar-nav .nav-link {
@@ -43,3 +44,11 @@ h5 {
 
 form {
   padding-top: 20px; }
+
+.modal-body {
+  text-align: center; }
+  .modal-body img {
+    padding-top: 20px; }
+
+span {
+  text-decoration: underline; }
