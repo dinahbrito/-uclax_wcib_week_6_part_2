@@ -40,3 +40,6 @@ h5 {
   font-weight: 300;
   line-height: 1;
   letter-spacing: -.05rem; }
+
+form {
+  padding-top: 20px; }
