@@ -10,7 +10,7 @@ h5 {
   color: #533A2E; }
 
 .jumbotron {
-  background-image: url("/images/fall_collection.png");
+  background-image: url("../images/fall_collection.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
