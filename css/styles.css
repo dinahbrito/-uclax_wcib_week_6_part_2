@@ -6,7 +6,7 @@ body {
 h5 {
   text-decoration: underline;
   text-transform: uppercase;
-  font-size: calc(100 / (1920 / 23) * 1vw);
+  font-size: 1em;
   color: #533A2E; }
 
 .jumbotron {
